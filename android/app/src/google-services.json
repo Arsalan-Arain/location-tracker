@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031667737915",
+    "project_id": "realtimetracker-70121",
+    "storage_bucket": "realtimetracker-70121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031667737915:android:af7fe2eddec41c6efb831e",
+        "android_client_info": {
+          "package_name": "com.example.location_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031667737915-3fp7thvtoi0jvavubcre7cr5hpns7ui4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEgp6SZe5IoYANmTox_D_WVZE3mIcT6qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031667737915-3fp7thvtoi0jvavubcre7cr5hpns7ui4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
